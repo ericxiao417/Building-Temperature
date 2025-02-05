@@ -1,0 +1,29 @@
+# Server configuration
+server:
+  port: 8080
+
+# Spring datasource configuration
+spring:
+  datasource:
+    # JDBC URL for MySQL, with settings for unicode and timezone
+    url: jdbc:mysql://localhost:3306/building_temp_control?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai&useSSL=false
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  mvc:
+    pathmatch:
+      # Use ant_path_matcher for compatibility with Swagger
+      matching-strategy: ant_path_matcher
+
+# MyBatis configuration for ORM mapping
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.example.building.model
+  configuration:
+    map-underscore-to-camel-case: true
+
+# Springfox Swagger configuration
+springfox:
+  documentation:
+    swagger-ui:
+      enabled: true 

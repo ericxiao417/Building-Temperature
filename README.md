@@ -67,15 +67,15 @@ Swagger UI is available at: http://localhost:8080/swagger-ui/
 
 (1) Click "Try it out".
 
-![image-20250205113304806](.\screent\image-20250205113304806.png)
+![image-20250205113304806](./screent/image-20250205113304806.png)
 
 (2) Click "Execute".
 
-![image-20250205113420072](.\screent\image-20250205113420072.png)
+![image-20250205113420072](./screent/image-20250205113420072.png)
 
 (3) Show all results.
 
-![image-20250205113501834](.\screent\image-20250205113501834.png)
+![image-20250205113501834](./screent/image-20250205113501834.png)
 
 
 
@@ -83,11 +83,11 @@ Swagger UI is available at: http://localhost:8080/swagger-ui/
 
 (1) Add the json request body:
 
-![image-20250205113849652](.\screent\image-20250205113849652.png)
+![image-20250205113849652](./screent/image-20250205113849652.png)
 
 (2) Execute and show results:
 
-![image-20250205113911327](.\screent\image-20250205113911327.png)
+![image-20250205113911327](./screent/image-20250205113911327.png)
 
 
 
@@ -97,29 +97,29 @@ Swagger UI is available at: http://localhost:8080/swagger-ui/
 
 (1) Enter the building's id:
 
-![image-20250205114033266](.\screent\image-20250205114033266.png)
+![image-20250205114033266](./screent/image-20250205114033266.png)
 
 (2) Execute and show results:
 
-![image-20250205114107979](.\screent\image-20250205114107979.png)
+![image-20250205114107979](./screent/image-20250205114107979.png)
 
 ### 4. Update Building Temperature
 
 (1) Enter the building's id, and update its' targetTemperature.
 
-![image-20250205114245364](.\screent\image-20250205114245364.png)
+![image-20250205114245364](./screent/image-20250205114245364.png)
 
 (2) Execute and show results:
 
-![image-20250205114324213](.\screent\image-20250205114324213.png)
+![image-20250205114324213](./screent/image-20250205114324213.png)
 
 ### 5. Delete Building
 
 (1) Enter the building's id which you need delete.
 
-![image-20250205114430673](.\screent\image-20250205114430673.png)
+![image-20250205114430673](./screent/image-20250205114430673.png)
 
 (2) Execute and show results:
 
-![image-20250205114451555](.\screent\image-20250205114451555.png)
+![image-20250205114451555](./screent/image-20250205114451555.png)
 

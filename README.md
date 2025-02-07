@@ -123,3 +123,12 @@ Swagger UI is available at: http://localhost:8080/swagger-ui/
 
 ![image-20250205114451555](./screent/image-20250205114451555.png)
 
+## Unit Test
+(1) Run test command
+```bash
+mvn test
+```
+(2) Result
+![image-2025020702](./screent/image-2025020702.png)
+![image-2025020701](./screent/image-2025020701.png)
+
